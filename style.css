@@ -1,0 +1,37 @@
+.qadriwww{text-align: center !important;position: sticky !important;top: 0% !important;z-index:1;}
+.yousuf{text-align: center !important;}
+.mmm{position: sticky !important;top: 0%;z-index:2;}
+#hhh{color:black;display: flex;justify-content: center;align-items: center;justify-content: space-evenly;}
+label{display: inline-block;width: 100px;text-align: center;}
+.ddd{background-color: black;color: white;text-decoration: none;text-align: center;}
+
+.what{text-align: center !important;border: 1px solid black;background-color: black;color:white;text-decoration: none;}
+.what:active{background-color: blue !important; color: floralwhite !important;}
+.sob{display: inline-block !important;}
+.fff{display: inline-block !important; width: 10px !important;display: flex !important; justify-content: center !important;align-items: center !important;}
+.mous{transition: 2s !important;}
+h2{text-align: center;color:black !important;}
+.queen{color:rgb(53, 130, 155);text-decoration: none;}
+@media only screen and (max-width: 576px) {
+    .yousuf{width: 350px !important;height: 400px !important;
+     
+    }
+  }
+
+  @media only screen and (max-width: 576px) {
+    .container-fluid{Text-align: justify
+     
+    }
+  }
+
+  @media only screen and (max-width: 576px) {
+    .lock{color:rgb(53, 130, 155) !important;text-decoration: none !important;display: flex;justify-content: center;align-items: center;
+     
+    }
+  }  
+
+  @media only screen and (max-width: 576px) {
+    .text-body{color:black !important;text-decoration: none !important;display: flex;justify-content: center;align-items: center;
+     
+    }
+  }
